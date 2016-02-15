@@ -3,7 +3,7 @@ var now = moment();
 
 //console.log(now.format());
 //console.log(now.format('X'));
-//console.log(now.valueOf());
+console.log(now.valueOf());
 
 var timestamp = 1455559371158;
 var timestampMoment = moment.utc(timestamp);
